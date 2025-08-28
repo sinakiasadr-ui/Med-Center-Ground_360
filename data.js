@@ -64,7 +64,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -1.3473627720291432,
+          "pitch": 0.21487001949629203,
+          "rotation": 0,
+          "target": "0-corona-camera002_post"
+        }
+      ],
       "infoHotspots": []
     },
     {
@@ -91,7 +98,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": 1.757794888934173,
+          "pitch": 0.22456923575465737,
+          "rotation": 0,
+          "target": "0-corona-camera002_post"
+        }
+      ],
       "infoHotspots": []
     }
   ],
